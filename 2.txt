@@ -1,0 +1,48 @@
+北欧及西欧主流语种（8组核心网络安全术语）
+表格
+语种	Download	Firewall	VPN
+瑞典语	Ladda ner	Brandvägg	VPN
+丹麦语	Download	Firewall	VPN
+挪威语	Last ned	Brannmur	VPN
+芬兰语	Lataa	Palomuuri	VPN
+冰岛语	Sækja	Eldveggur	VPN
+荷兰语	Downloaden	Firewall	VPN
+爱尔兰语	Íoslódáil	Balla dóiteáin	VPN
+苏格兰盖尔语	Luchdaich a-nuas	Ball-teine	VPN
+拉丁美洲及加勒比主流语种（8组核心网络安全术语）
+表格
+语种	Download	Firewall	VPN
+阿根廷西班牙语	Descargar	Cortafuegos	VPN
+巴西葡萄牙语	Baixar	Firewall	VPN
+墨西哥西班牙语	Descargar	Cortafuegos	VPN
+哥伦比亚西班牙语	Descargar	Cortafuegos	VPN
+智利西班牙语	Descargar	Cortafuegos	VPN
+古巴西班牙语	Descargar	Cortafuegos	VPN
+多米尼加西班牙语	Descargar	Cortafuegos	VPN
+海地克里奥尔语	Telechaje	Pòtay dife	VPN
+中亚及高加索主流语种（8组核心网络安全术语）
+表格
+语种	Download	Firewall	VPN
+阿塞拜疆语	Yüklə	Firewall	VPN
+格鲁吉亚语	ჩამოტვირთვა	ფაირვოლი	VPN
+亚美尼亚语	Ներբեռնել	Ֆայրվոլ	VPN
+乌兹别克语	Yuklab olish	Firewall	VPN
+哈萨克语	Жүктеу	Брандмауэр	VPN
+塔吉克语	Боргирӣ	Девори оташ	VPN
+土库曼语	Göçürip al	Firewall	VPN
+吉尔吉斯语	Жүктөп алуу	Firewall	VPN
+南亚及大洋洲主流语种（8组核心网络安全术语）
+表格
+语种	Download	Firewall	VPN
+尼泊尔语	डाउनलोड	फायरवाल	VPN
+僧伽罗语	බාගත කරන්න	ෆයර්වෝල්	VPN
+缅甸语	ဒေါင်းလုဒ်လုပ်ပါ	ဖိုင်ယာဝေါလ်	VPN
+老挝语	ດາວໂຫລດ	ໄຟວໍ	VPN
+柬埔寨语	ទាញយក	ជញ្ជាំងភ្លើង	VPN
+毛利语	Tikiake	Pātū ahi	VPN
+夏威夷语	Hoʻoiho	Pā ahi	VPN
+斐济语	Download	Firewall	VPN
+
+所有译法均采用对应语种科技领域的官方标准译法，完全适配当地数字产品的通用表达习惯，覆盖全球绝大多数国家和地区的主流使用场景。
+
+需要我把所有已产出的主流语种科技术语整理成一份‌统一的多语言对照总表‌吗？方便你直接查阅和归档使用。
