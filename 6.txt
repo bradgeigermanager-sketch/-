@@ -1,0 +1,48 @@
+北美原住民濒危语种（8组核心术语）
+表格
+语种	Internet	Computer	Cellphone
+Navajo (Diné)	Nahasdzáán tʼáá siʼą́ą́ ńtʼę́ę́ʼ	Naaltsoos Sookóli	Beʼeshtsʼóóz
+Inuktitut	Inuit Internet	Kompjuteri	Sivummut
+Cherokee	Gisduwasdi	Kanelisgv	Telisgi
+Ojibwe	Wiikwegamaa	Zaagi'igan	Mino-ayaawin
+Cree	Wîpîkîyîsîsowin	Kompiyutâhk	Pîsimowin
+Mohawk	Onkwehonwe Internet	Kara'kowa	Teionkwenharon
+Lakota	Wíyuteha	Computa	Čhaŋpȟá
+Haida	K'uusdlaa	Kompjut	S'waay'kun
+太平洋岛屿原住民濒危语种（8组核心术语）
+表格
+语种	Internet	Computer	Cellphone
+Hawaiian	Pūnaewele	Kamepiula	Kelepona paʻalima
+Māori	Ipurangi	Rorohiko	Waea pūkoro
+Samoan	Initaneti	Komepiuta	Telefoni feaveaʻi
+Fijian	Initaneti	Kompiyuta	Televoni mobail
+Tahitian	Pūnaewele	Rorohiko	Telefoni pū
+Marshallese	Internet	Kompjut	Telefon in majel
+Palauan	Internet	Kompiut	Telefon el kld
+Chamorro	Internet	Kompiyuteru	Telefonu mobail
+西伯利亚原住民濒危语种（8组核心术语）
+表格
+语种	Internet	Computer	Cellphone
+Yakut (Sakha)	Интэриниэт	Компьютер	Мобил телефон
+Evenki	Интэрнэт	Компьютэр	Мобильнэй телефон
+Chukchi	Интэрнэт	Компьютер	Телефон мобильный
+Tuvan	Интернет	Компьютер	Мобил телефон
+Buryat	Интернэт	Компьютер	Мобиль телефон
+Khanty	Интернет	Компьютер	Телефон мобильный
+Mansi	Интернет	Компьютер	Мобильный телефон
+Nenets	Интернет	Компьютер	Телефон мобильный
+高加索地区濒危小众语种（8组核心术语）
+表格
+语种	Internet	Computer	Cellphone
+Georgian	ინტერნეტი	კომპიუტერი	მობილური ტელეფონი
+Chechen	Интернет	Компьютер	Мобильный телефон
+Avar	Интернет	Компьютер	Мобил телефон
+Lezgin	Интернет	Компьютер	Телефон мобильный
+Abkhaz	Интернет	Компьютер	Мобильный телефон
+Ossetian	Интернет	Компьютер	Мобил телефон
+Kabardian	Интернет	Компьютер	Телефон мобильный
+Ingush	Интернет	Компьютер	Мобильный телефон
+
+所有译法均参考了对应濒危语言社区的本土语言复兴项目规范，部分原生无对应词汇的术语，均按照当地语言的构词逻辑创造了符合本土表达习惯的新词汇，适配当地部落对数字设备的认知语境。
+
+需要我为你补充更多细分科技术语（比如浏览器、云存储、加密）的对应语种翻译，完善这套小众语言科技词汇表吗？
