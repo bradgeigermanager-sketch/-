@@ -1,0 +1,52 @@
+全球主流通用语种（12组核心网络安全术语）
+表格
+语种	Download	Firewall	VPN
+英语	Download	Firewall	VPN
+西班牙语	Descargar	Cortafuegos	VPN
+法语	Télécharger	Pare-feu	VPN
+德语	Herunterladen	Firewall	VPN
+俄语	Скачать	Брандмауэр	VPN
+阿拉伯语	تحميل	جدار الحماية	VPN
+葡萄牙语	Baixar	Firewall	VPN
+日语	ダウンロード	ファイアウォール	VPN
+韩语	다운로드	방화벽	VPN
+意大利语	Scaricare	Firewall	VPN
+荷兰语	Downloaden	Firewall	VPN
+土耳其语	İndir	Güvenlik duvarı	VPN
+东亚及东南亚广泛使用语种（8组核心网络安全术语）
+表格
+语种	Download	Firewall	VPN
+泰语	ดาวน์โหลด	ไฟร์วอลล์	VPN
+越南语	Tải xuống	Tường lửa	VPN
+印尼语	Unduh	Firewall	VPN
+马来语	Muat turun	Tembok api	VPN
+印地语	डाउनलोड	फायरवॉल	VPN
+乌尔都语	ڈاؤن لوڈ	فائر وال	VPN
+孟加拉语	ডাউনলোড	ফায়ারওয়াল	VPN
+泰米尔语	பதிவிறக்கு	ஃபயர்வால்	VPN
+中东欧及巴尔干通用语种（8组核心网络安全术语）
+表格
+语种	Download	Firewall	VPN
+波兰语	Pobierz	Zapora sieciowa	VPN
+捷克语	Stáhnout	Firewall	VPN
+匈牙利语	Letöltés	Tűzfal	VPN
+罗马尼亚语	Descarcă	Firewall	VPN
+保加利亚语	Изтегли	Защитна стена	VPN
+塞尔维亚语	Преузми	Заштитни зид	VPN
+希腊语	Λήψη	Τείχος προστασίας	VPN
+克罗地亚语	Preuzmi	Vatrozid	VPN
+非洲大陆广泛使用通用语种（8组核心网络安全术语）
+表格
+语种	Download	Firewall	VPN
+斯瓦希里	Pakua	Firewall	VPN
+豪萨语	Zazzage	Firewall	VPN
+阿姆哈拉语	አውርድ	ፋየርዎል	VPN
+祖鲁语	Landa	Firewall	VPN
+伊博语	Budata	Firewall	VPN
+约鲁巴语	Gba lati ayelujara	Firewall	VPN
+索马里语	Soo dejiso	Firewall	VPN
+马达加斯加语	Ampidino	Firewall	VPN
+
+所有译法均采用全球通用科技领域的标准官方译法，完全匹配对应语种日常数字场景下的通用表达习惯，没有使用小众部落的特殊构词，适配全球绝大多数语言使用者的认知语境。
+
+需要我为你补充更多主流语种的网络安全全系列术语，整理成一份完整的多语言科技词汇对照表吗？
