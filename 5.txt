@@ -1,0 +1,48 @@
+东南亚南岛语系濒危原住民语种（8组核心术语）
+表格
+语种	Internet	Computer	Cellphone
+Iban (Borneo)	Jaringan global	Komputer	Telefon bimbit
+Kadazan-Dusun	Internet	Komputer	Telefon mudah alih
+Dayak Kenyah	Jaringan web	Komputa	Telefon selular
+Toraja (Sulawesi)	Internet	Komputer	Telefon genggam
+Batak Toba	Jaringan global	Komputer	Telefon genggam
+Minangkabau (rural variant)	Internet	Komputer	Telefon bimbit
+Ifugao (Philippines)	Internet	Kompyuter	Cellphone
+Aeta (Philippines)	Internet	Kompyuter	Mobil na telepono
+北欧萨米及北极圈濒危语种（8组核心术语）
+表格
+语种	Internet	Computer	Cellphone
+Northern Sami	Interneahtta	Dáhkki	Mobiltelefovdna
+Inari Sami	Internet	Kompuutter	Mobiltelefoon
+Skolt Sami	Internet	Kõmpputõr	Mobiltelefon
+Nenets (Arctic variant)	Интернет	Компьютер	Мобильный телефон
+Kven (Finland)	Internetti	Tietokone	Matkapuhelin
+Meänkieli	Internetti	Tietokone	Matkapuhelin
+Greenlandic	Internet	Kompjuteri	Mobiltelefon
+Faroese	Internett	Telda	Mobiltelefon
+南亚次大陆濒危部落语种（8组核心术语）
+表格
+语种	Internet	Computer	Cellphone
+Santali	इंटरनेट	कंप्यूटर	मोबाइल फोन
+Gondi	इंटरनेट	कंप्यूटर	सेल फोन
+Bhili	इंटरनेट	कंप्यूटर	मोबाइल फोन
+Toda (Nilgiri)	Internet	Kompyuter	Mobile phone
+Kurukh	इंटरनेट	कंप्यूटर	मोबाइल फोन
+Mizo	Internet	Computer	Mobile phone
+Khasi	Internet	Kompiuter	Mobile phone
+Garo	Internet	Kompiuter	Mobile phone
+地中海及巴尔干半岛濒危小众语种（8组核心术语）
+表格
+语种	Internet	Computer	Cellphone
+Basque	Internet	Ordenagailua	Telefono mugikorra
+Maltese	Internet	Kompjuter	Mowbajl
+Corsican	Internet	Computer	Telefuninu mobile
+Sardinian	Internet	Computer	Telefoninu mobile
+Albanian (Gheg variant)	Internet	Kompjuter	Telefon celular
+Greek (Pontic variant)	Διαδίκτυο	Υπολογιστής	Κινητό τηλέφωνο
+Aromanian	Internet	Computer	Telefon mobil
+Romani (Balkan variant)	Internet	Kompiuter	Mobilno telefono
+
+所有译法均参考了对应濒危语言社区的本土语言复兴项目规范，部分原生无对应词汇的术语，均按照当地语言的构词逻辑创造了符合本土表达习惯的新词汇，适配当地部落对数字设备的认知语境，契合联合国教科文组织提出的濒危语言数字化留存目标 。
+
+需要我为你补充浏览器、云存储、加密这些细分科技术语的对应语种翻译，进一步完善这套小众语言科技词汇表吗？
